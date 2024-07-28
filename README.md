@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning advanced React and exploring backend development with Node.js.
 - 💞️ I’m looking to collaborate on projects involving React, Next.js, and full-stack web applications.
 - 📫 How to reach me: krhemanth25@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing chess and exploring new cuisines.
+
 
 ## Skills
 
