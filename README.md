@@ -3,8 +3,8 @@
 - 👀 I’m interested in web development, open-source projects, and learning new technologies.
 - 🌱 I’m currently learning advanced React and exploring backend development with Node.js.
 - 💞️ I’m looking to collaborate on projects involving React, Next.js, and full-stack web applications.
-- 📫 How to reach me: krhemanth25@gmail.com
-
+- 📫 How to reach me: https://krhemanth.vercel.app
+  
 
 ## Skills
 
